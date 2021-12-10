@@ -4,7 +4,7 @@
   "https": true,
   "serveConfigurations": {
     "default": {
-      "pageUrl": "https://8p5g5n.sharepoint.com/SitePages/Forms/ByAuthor.aspx",
+      "pageUrl": "https://8p5g5n.sharepoint.com/SitePages/Forms/ByAuthor.aspx?id=%2FSitePages%2Fde&viewid=3733ddc9%2D45b9%2D4fe5%2D8195%2D4b0b0f80a688",
       "customActions": {
         "fb8c8a4d-517a-432a-b301-ccc4183507c9": {
           "location": "ClientSideExtension.ListViewCommandSet.CommandBar",
@@ -16,7 +16,7 @@
       }
     },
     "customEcb": {
-      "pageUrl": "https://8p5g5n.sharepoint.com/SitePages/Forms/ByAuthor.aspx",
+      "pageUrl": "https://8p5g5n.sharepoint.com/SitePages/Forms/ByAuthor.aspx?id=%2FSitePages%2Fde&viewid=3733ddc9%2D45b9%2D4fe5%2D8195%2D4b0b0f80a688",
       "customActions": {
         "fb8c8a4d-517a-432a-b301-ccc4183507c9": {
           "location": "ClientSideExtension.ListViewCommandSet.CommandBar",
